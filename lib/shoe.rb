@@ -14,7 +14,7 @@ class Shoe
   end
   
   def shoe
-    if
+    
   end
 
 end
